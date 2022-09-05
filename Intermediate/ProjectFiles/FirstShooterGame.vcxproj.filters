@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstShooterGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7763A7E2-420A-4A67-A238-401B7BB69C2D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstShooterGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstShooterGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DD22B684-8FD1-493C-B86B-18841B229595}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstShooterGame">
+      <UniqueIdentifier>{C9ADDB79-1B0A-4DFC-886D-D00A2D02F001}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FirstShooterGame\Door.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\Door.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstShooterGame\Enemy.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\Enemy.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FirstShooterGame\FirstShooterGame.Build.cs">
+      <Filter>Source\FirstShooterGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstShooterGame\FirstShooterGame.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\FirstShooterGame.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstShooterGame\FirstShooterGameCharacter.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\FirstShooterGameCharacter.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstShooterGame\FirstShooterGameGameMode.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\FirstShooterGameGameMode.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstShooterGame\FirstShooterGameHUD.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\FirstShooterGameHUD.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstShooterGame\FirstShooterGameProjectile.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\FirstShooterGameProjectile.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstShooterGame\MonsterShooterCharacter.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\MonsterShooterCharacter.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstShooterGame\MonsterShooterGameMode.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\MonsterShooterGameMode.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstShooterGame\Projectile.cpp">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstShooterGame\Projectile.h">
+      <Filter>Source\FirstShooterGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\erocc\Desktop\FirstShooterGame\Intermediate\Build\Win64\UE4Editor\Development\FirstShooterGame\Definitions.FirstShooterGame.h
+A:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\erocc\Desktop\FirstShooterGame\Source\FirstShooterGame/Projectile.h
+C:\Users\erocc\Desktop\FirstShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\FirstShooterGame\Projectile.generated.h

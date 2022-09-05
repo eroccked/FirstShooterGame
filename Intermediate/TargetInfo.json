@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstShooterGame",
+			"Path": "C:\\Users\\erocc\\Desktop\\FirstShooterGame\\Source\\FirstShooterGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstShooterGameEditor",
+			"Path": "C:\\Users\\erocc\\Desktop\\FirstShooterGame\\Source\\FirstShooterGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

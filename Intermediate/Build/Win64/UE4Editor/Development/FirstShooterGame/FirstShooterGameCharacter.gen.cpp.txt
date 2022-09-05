@@ -1,0 +1,11 @@
+C:\Users\erocc\Desktop\FirstShooterGame\Intermediate\Build\Win64\UE4Editor\Development\FirstShooterGame\Definitions.FirstShooterGame.h
+A:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\erocc\Desktop\FirstShooterGame\Source\FirstShooterGame/FirstShooterGameCharacter.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\erocc\Desktop\FirstShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\FirstShooterGame\FirstShooterGameCharacter.generated.h
